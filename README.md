@@ -3,7 +3,7 @@
 - 📚Rising Junior @ Boston University studing Computer Science (Expected May 2026)
 - 🔭 I’m currently working as a Technical Project Coordinator for Boston University's Artemis Project
 - 🌱 I’m currently learning AI/ML using Python, TensorFlow, PyTorch, and Django
-- 💻 Most Recent Project: Global Sanitation Informatic
+- 💻 Most Recent Project: Global Sanitation Informatic w/ AI chatbot
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheyennemowatt&layout=compact)

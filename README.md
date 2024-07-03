@@ -1,8 +1,8 @@
-## Hi, I'm Cheyenne <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-📚Rising Junior @ Boston University (Expected May 2026)
-🔭 I’m currently working as a Technical Project Coordinator for Boston University's Artemis Project
-🌱 I’m currently learning AI/ML 
+- 📚Rising Junior @ Boston University (Expected May 2026)
+- 🔭 I’m currently working as a Technical Project Coordinator for Boston University's Artemis Project
+- 🌱 I’m currently learning AI/ML 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheyennemowatt&layout=compact)
 

@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=highcontrast&locale=en&layout=compact)
 
 </div>
 <!--

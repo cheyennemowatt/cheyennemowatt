@@ -6,12 +6,10 @@
 - 💻 Most Recent Project: Global Sanitation Informatic w/ AI chatbot
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="cheyennemowatt" /></p>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=cobalt&locale=en&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheyennemowatt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=onedark&locale=en&layout=compact)
 
 </div>
 <!--

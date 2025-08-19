@@ -1,8 +1,8 @@
 ## Welcome, I'm Cheyenne <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 📚Junior @ Boston University studing Computer Science (Expected May 2026)
-- 🔭 I’m currently working as an AI Engineer Intern @ Commonwealth of Massachusetts
-- 🌱 I’m currently learning AWS, pandas, SQL
+- 📚Rising Senior @ Boston University studing Computer Science (Expected May 2026)
+- 🔭 I’m currently working as an SWE Intern @ Discover
+- 🌱 I’m currently learning Java, SpringBoot, and Postman
 - 💻 Most Recent Project: StealthAgent
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 

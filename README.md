@@ -6,12 +6,6 @@
 - 💻 Most Recent Project: ReWind Journal
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cheyennemowatt&show_icons=true&theme=highcontrast&locale=en&layout=compact)
-
-</div>
 <!--
 **cheyennemowatt/cheyennemowatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

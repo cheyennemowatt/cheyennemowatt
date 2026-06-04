@@ -2,7 +2,7 @@
 
 - 📚 Boston University Computer Science Graduate (May 2026)
 - 🔭 Previous SWE Intern @ Discover Financial
-- 🌱 I’m currently improving my SQL, Data Analytics, and Snowflake skills.
+- 🌱 I’m currently improving my SQL, Data Analytics, and ETL Pipeline skills.
 - 💻 Most Recent Project: ReWind Journal
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 

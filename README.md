@@ -4,7 +4,7 @@
 - 🔭 Previous SWE Intern @ Discover Financial
 - 🌱 I’m currently improving my SQL, Data Analytics, and ETL Pipeline skills.
 - 💻 Most Recent Project: ReWind Journal
-- 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
+- 💬 Passionate about leveraging technology and data to better understand users, solve business challenges, and create meaningful impact.
 
 <!--
 **cheyennemowatt/cheyennemowatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

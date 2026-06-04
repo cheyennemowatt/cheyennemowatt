@@ -1,9 +1,9 @@
 ## Welcome, I'm Cheyenne <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 📚 Senior @ Boston University studing Computer Science (Expected May 2026)
+- 📚 Boston University Computer Science Graduate (May 2026)
 - 🔭 Previous SWE Intern @ Discover Financial
-- 🌱 I’m currently learning Kotlin, Django, and Restful APIs
-- 💻 Most Recent Project: Data Search Engine
+- 🌱 I’m currently improving my SQL, Data Analytics, and Snowflake skills.
+- 💻 Most Recent Project: ReWind Journal
 - 💬 Passionate about leveraging technology to create meaningful solutions, particularly in improving diversity and inclusion
 
 
